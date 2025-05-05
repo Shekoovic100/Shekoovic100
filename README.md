@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Sherif Samy!
 - 🔭 iOS Developer | Crafting Seamless Mobile Experiences
-- 😄 Nickname: Shekoo
+- 😄 Nickname: Shekoovic
 - I’m passionate about building intuitive and high-quality iOS apps from the ground up, as well as optimizing and fixing existing ones. With over 2.5 years of professional experience, I love turning ideas into user-focused applications that make an impact.
 
 ## 🚀 What I Bring to the Table
